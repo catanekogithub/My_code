@@ -1,0 +1,4 @@
+﻿  hello_world.c
+D:\Personal files\Cata\My Github\My_code\Learn\C_code\Helloworld\Helloworld\hello_world.c(41,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+D:\Personal files\Cata\My Github\My_code\Learn\C_code\Helloworld\Helloworld\hello_world.c(42,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+  Helloworld.vcxproj -> D:\Personal files\Cata\My Github\My_code\Learn\C_code\Helloworld\x64\Debug\Helloworld.exe
