@@ -1,2 +1,13 @@
-﻿  2.9-循环选择结构.c
-  1.vcxproj -> D:\Personal files\Cata\My Github\My_code\Learn\C_code\课后例题\1\x64\Debug\1.exe
+﻿  1.1-运算符.c
+  1.2-求两数之和.c
+  1.3-求两数较大者.c
+  2.3-判定闰年.c
+  2.9-循环选择结构.c
+  review.c
+  test.c
+  func.c
+  3.0-数组指针结构体.c
+  test2.c
+D:\Cata\My_repository\My_code\Learn\C_code\课后例题\1\1\func.c(1,10): error C1083: 无法打开包括文件: “stdio.h”: No such file or directory
+D:\Cata\My_repository\My_code\Learn\C_code\课后例题\1\1\3.0-数组指针结构体.c(3,10): error C1083: 无法打开包括文件: “stdio.h”: No such file or directory
+  正在生成代码...
